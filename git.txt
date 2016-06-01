@@ -1,0 +1,9 @@
+git init
+git add *
+git commit -m "Initial Commit"
+git remote add origin git@github.com:jiangzhengqiao/demo.git
+git remote set-url origin git@github.com:jiangzhengqiao/demo.git
+git push -f -u origin master
+
+
+git pull
