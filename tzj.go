@@ -14,10 +14,10 @@ import (
 )
 
 const (
-	username   string = "jiangzhengqiao" // 用户名
-	password   string = "jiang118119"    // 密码
-	tradePwd   string = "118119"         // 支付密码
-	investPart string = "1"              // 投资金额
+	username   string = "" // 用户名
+	password   string = ""    // 密码
+	tradePwd   string = ""         // 支付密码
+	investPart string = ""              // 投资金额
 )
 
 var token string
